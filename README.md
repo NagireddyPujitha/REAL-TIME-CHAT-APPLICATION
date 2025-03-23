@@ -105,3 +105,5 @@ The Real-Time Chat Application is a powerful and versatile platform for real-tim
 Whether you are using it for personal communication or integrating it into a larger project, this application provides a robust foundation for real-time messaging. With its easy setup, customizable features, and responsive design, 
 it is an excellent choice for anyone looking to build or use a real-time chat application.
 
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/94120a4d-9476-417b-9fc0-f778e3e18e05)
