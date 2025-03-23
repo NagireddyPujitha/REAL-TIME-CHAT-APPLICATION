@@ -106,4 +106,7 @@ Whether you are using it for personal communication or integrating it into a lar
 it is an excellent choice for anyone looking to build or use a real-time chat application.
 
 *OUTPUT*:
+
 ![Image](https://github.com/user-attachments/assets/94120a4d-9476-417b-9fc0-f778e3e18e05)
+
+![Image](https://github.com/user-attachments/assets/4937ba74-f0d2-4f22-9dda-98b1cd7427df)
